@@ -23,3 +23,7 @@ print(mentorebi[-5:-3])
 mentorebi=["ilia", "davit", "cotne", "aleqsandre", "luka", "messi"]
 print(mentorebi[0:4])
 
+# ....................................................
+
+
+
